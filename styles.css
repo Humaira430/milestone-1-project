@@ -36,7 +36,8 @@
 }
 #banner{
       max-width: 1600px;
-      background:url(../images/hero-bg.png);
+      /* background:url(../images/hero-bg.png); */
+      background:url("images/hero-bg.png");
       background-repeat: no-repeat;
       text-align: center;
       height: 674px;   
